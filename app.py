@@ -7,7 +7,7 @@ import httpx
 from urllib.parse import quote
 
 app = FastAPI()
-kitsu_addon_url = 'https://anime-kitsu.strem.fun'
+kitsu_addon_url = 'https://kitsufortheweebs.midnightignite.me'
 REQUEST_TIMEOUT = 30
 
 
